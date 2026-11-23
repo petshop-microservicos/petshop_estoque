@@ -1,7 +1,8 @@
 using Estoque.Data;
 using Estoque.DTOs;
 using Estoque.Entities;
-using Estoque.Infra;
+using Estoque.Exceptions;
+
 using Microsoft.EntityFrameworkCore;
 
 namespace Estoque.Services;

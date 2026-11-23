@@ -1,5 +1,5 @@
 using Estoque.Data;
-using Estoque.Infra;
+using Estoque.Exceptions;
 using Estoque.Services;
 using Microsoft.EntityFrameworkCore;
 
